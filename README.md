@@ -3,7 +3,7 @@
 <img src="banner-jonathan.png" width="100%">
 </p>
 
-<h1 class="animated">Jonathan Dario Sierra Galindo</h1>
+# Jonathan Dario Sierra Galindo
 
 ### Backend Engineer • Kafka Specialist • Messaging Architect
 
@@ -124,21 +124,6 @@ LinkedIn
 https://www.linkedin.com/in/jonathan-sierra/
 
 ---
-
-<style>
-@keyframes colorCycle {
-  0% { color: #ff0000; }
-  16% { color: #ff8000; }
-  33% { color: #ffff00; }
-  50% { color: #80ff00; }
-  66% { color: #00ff00; }
-  83% { color: #00ff80; }
-  100% { color: #0000ff; }
-}
-.animated {
-  animation: colorCycle 5s infinite;
-}
-</style>
 
 <p align="center">
 Building scalable systems with event-driven architectures
