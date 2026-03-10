@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hola, soy Jonathan Dario Sierra Galindo 👋
 
-<!--
-**Jony-1/Jony-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ingeniero / desarrollador enfocado en integración, mensajería y observabilidad.
 
-Here are some ideas to get you started:
+## 🚀 Tecnologías y áreas
+- Apache Kafka
+- Kafka Connect
+- IBM MQ
+- Docker / Podman
+- OpenShift / Kubernetes
+- Java
+- Python
+- Elasticsearch / Kibana
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Actualmente
+- Trabajando en integraciones con Kafka, MQ y SQS
+- Construyendo proyectos personales de desarrollo web
+- Aprendiendo y mejorando arquitectura, observabilidad y automatización
+
+## 🛠 Proyectos destacados
+- [SQS-AWS-connector](https://github.com/Jony-1/SQS-AWS-connector)
+- [list-todo-client](https://github.com/Jony-1/list-todo-client)
+- [work-up](https://github.com/Jony-1/work-up)
+
+## 📫 Contacto
+- LinkedIn: pega_aqui_tu_link
+- Correo: pega_aqui_tu_correo
+
+---
+✨ Siempre buscando aprender, construir y mejorar soluciones reales.
