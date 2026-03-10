@@ -94,7 +94,7 @@ Currently working with:
 # 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Jony-1&show_icons=true&theme=radical&hide_border=true&include_all_commits=true">
+<img src="https://github-readme-stats.vercel.app/api?username=Jony-1&show_icons=true&theme=merko&hide_border=true">
 </p>
 
 ---
@@ -102,7 +102,7 @@ Currently working with:
 # 📈 Most Used Languages
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jony-1&layout=compact&theme=radical&hide_border=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jony-1&layout=compact&theme=merko&hide_border=true&langs_count=8">
 </p>
 
 ---
